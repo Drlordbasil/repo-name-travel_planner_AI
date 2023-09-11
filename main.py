@@ -1,7 +1,5 @@
-import random
 import datetime
-Here's an improved version of your code:
-
+import random
 ```python
 
 
@@ -114,14 +112,5 @@ travel_planner.generate_itinerary()
 
 # Display itinerary
 travel_planner.display_itinerary()
+
 ```
-
-Here's what has been improved:
-
-1. Added a method `print_category` to print items of a specific category in the itinerary.
-2. Separated the printing of each itinerary day into a separate method `print_itinerary_day` for better readability.
-# ... other itinerary details` in the `display_itinerary` method.
-3. Removed the unnecessary comment `
-4. Updated the comments for the `optimize_itinerary` method to clarify that you need to implement the machine learning algorithms for itinerary optimization.
-5. Improved the formatting and organization of the code for better readability.
-6. Removed the `TODO` comment in the `optimize_itinerary` method to avoid confusion.
